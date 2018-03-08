@@ -1,9 +1,12 @@
 p
 {
-	color: white;
+	color: black;
 	position: relative;
-	background-color: black;
+	background-color: white;
 	margin-top: 600px;
+	border: 7px solid hsla(0,0%,0%,.5);
+	box-shadow: 8px 8px hsla(0,0%,0%,.6);
+	padding: 10px;
 }
 
 #img
@@ -12,4 +15,8 @@ p
 	height: 100%;
 	position:fixed;
 	margin-left: -14px;
+}
+
+{
+
 }
